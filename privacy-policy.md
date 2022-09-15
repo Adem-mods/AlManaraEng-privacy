@@ -10,7 +10,7 @@ This المنارة الإنجليزية للإبتدائي track basic informat
 
 ## Cookies
 
-Where necessary, this quotes uses cookies to store information about a visitor’s preferences and history in order to better serve the user and present the user with customized content.
+Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and present the user with customized content.
 
 
 ## Advertisement and Other Third Parties
